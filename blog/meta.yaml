@@ -1,0 +1,9 @@
+extends: blog.j2
+default_block: post
+listable: true
+author: derechoaleer
+type: story
+status: 1
+comments_status: hidden
+next_post_nav: true
+language: es
